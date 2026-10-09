@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What are the admission requirements?",
+      "answer": "Admission requires a completed application form, high school transcripts, and a minimum GPA of 3.0."
+    },
+    {
+      "question": "How do I apply for financial aid?",
+      "answer": "You can apply for financial aid by filling out the FAFSA form on our official website before May 1st."
+    },
+    {
+      "question": "What courses are offered in Computer Science?",
+      "answer": "We offer Data Structures, Artificial Intelligence, Web Development, Cloud Computing, and Machine Learning."
+    },
+    {
+      "question": "What are the library timings?",
+      "answer": "The central library is open from 8:00 AM to 10:00 PM on weekdays and 10:00 AM to 6:00 PM on weekends."
+    },
+    {
+      "question": "How can I contact student support?",
+      "answer": "You can reach student support via email at support@university.edu or call us at +1-800-555-0199."
+    }
+  ]
